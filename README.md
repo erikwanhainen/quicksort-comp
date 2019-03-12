@@ -1,0 +1,2 @@
+# quicksort-comp
+Quicksort competition
